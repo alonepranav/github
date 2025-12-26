@@ -1,1 +1,2 @@
-This is some content in the new File
+This is some content in the new File - This is from the first commit
+This is the second line and now this is from the second commit from the second time this file is used
