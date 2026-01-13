@@ -1,1 +1,2 @@
 This is the new learning file for learning git
+This is one more line of text added to teh learning file
