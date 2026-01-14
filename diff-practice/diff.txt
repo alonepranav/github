@@ -1,0 +1,8 @@
+
+This is some text added to the diff text file
+ANd this is some more changes
+1
+2
+3
+4
+5
